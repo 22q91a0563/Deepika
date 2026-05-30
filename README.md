@@ -15,7 +15,8 @@ Welcome to my GitHub profile. I'm a tech enthusiast with a focus on data science
 
 Here are some of the recent projects I've built:
 
-* **P1:** [TextMind - Multimodal Language Detection System](YOUR_LINK_HERE)
+* **P1:** Collaborative platform for connecting Customers, Shopkeepers and Service Providers
+* **Link:** http://127.0.0.1:8000/
 
 
 **Let's Connect:** I'm actively looking for opportunities in IT and Data Analytics!
