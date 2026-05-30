@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile. I'm a tech enthusiast with a focus on data science and software development. 
 
-## 📋 Attributes
+##  Attributes
 
 | Attribute | Value |
 | :--- | :--- |
@@ -11,7 +11,7 @@ Welcome to my GitHub profile. I'm a tech enthusiast with a focus on data science
 | **Skills** | Python, SQL, Data Analytics |
 | **Languages** | Telugu, English |
 
-## 🚀 Projects
+##  Projects
 
 Here are some of the recent projects I've built:
 
